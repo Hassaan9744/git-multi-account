@@ -1,5 +1,4 @@
-# Managing Multiple GitHub Accounts on One Machine (Linux, Windows, macOS)
-
+# Setting Up Multiple GitHub Accounts with Folder-Based Configuration (Linux, Windows, macOS)
 This guide helps you set up and manage **multiple GitHub accounts** (e.g., personal and work) on a single machine using SSH keys and custom `.gitconfig` files.
 
 ---
